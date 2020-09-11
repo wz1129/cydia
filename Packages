@@ -45,18 +45,18 @@ Author: Domo
 Name: CocoaTop
 
 Package: z.fengnoad
-Version: 0.0.1-2
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 真皮
 Installed-Size: 104
 Depends: mobilesubstrate
-Filename: debs2/z.fengnoad_0.0.1-2_iphoneos-arm.deb
-Size: 2416
-MD5sum: ef34fb38ac2703a75af6ad2925c8c42b
-SHA1: 1bbad62ee0f7811fa6a4785f79f62d5cce9c82c0
-SHA256: b75241b0c55b98b2fcc988fcaa5d4ca37e3d67fe9542c65c855a0eb50d9e9ba7
+Filename: debs2/z.fengnoad_1.0_iphoneos-arm.deb
+Size: 2884
+MD5sum: 27b48c01331659beade7e3de99a5c585
+SHA1: 7fe4d52010c87e50b9e2a76c7d236d19affe83fc
+SHA256: 5d0ed57457cbd4b34690b31160e8f5e8c79b17844575ff468dad6f634808c7f4
 Section: Tweaks
-Description: 威锋6.0去广告~
+Description: 威锋6.0.1去广告~
 Author: 真皮
 Icon: file:///Applications/Cydia.app/Sections/Messaging.png
 Name: fengNoAd
